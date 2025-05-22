@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umme Arifa Zaman Nirjhor</h1>
-<h3 align="center">I’m Umme Arifa Zaman Nirjhor, from Dhaka, Bangladesh, studying Computer Science and Engineering. I’m skilled in HTML, CSS, C, C++, Java, as well as data structures, algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</h3>
+<h3 align="center">I’m Umme Arifa Zaman Nirjhor, from Dhaka, Bangladesh, studying Computer Science and Engineering. I’m skilled in HTML, C, C++, Java, as well as Data Structures, Algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifa-nirjhor&label=Profile%20views&color=0e75b6&style=flat" alt="arifa-nirjhor" /> </p>
 
