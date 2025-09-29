@@ -1,3 +1,5 @@
+<img src="[photo_link_here](https://www.canva.com/design/DAG0W4AsGzM/2NU_TjFADd3uAwtxJNuthw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)">
+
 <h1 align="center">Hi 👋, I'm Umme Arifa Zaman Nirjhor</h1>
 <h3 align="center">I’m Umme Arifa Zaman Nirjhor, from Dhaka, Bangladesh, studying Computer Science and Engineering. I’m skilled in HTML, C, C++, Java, as well as Data Structures, Algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</h3>
 
