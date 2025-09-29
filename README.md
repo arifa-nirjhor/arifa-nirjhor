@@ -73,14 +73,8 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
   </a> 
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/> 
-  </a> 
-  <!-- Code::Blocks -->
-  <a href="http://www.codeblocks.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Code::Blocks_logo.png" alt="Code::Blocks" width="40" height="40"/> 
-  </a>
+ 
+ 
   <!-- MySQL Workbench -->
   <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" height="40"/> 
@@ -134,14 +128,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arifa-nirjhor&bg_color=0d1117&color=4ade80&line=2f8ee0&point=ff2c6d&area=true&hide_border=true" alt="GitHub Contribution Graph" width="650"/>
 </p>
 
-<!-- Codeforces Activity -->
-<p align="center">
-  <img src="https://cfstats.herokuapp.com/user/Arifa_Zaman_18?theme=light" alt="Codeforces Activity Graph" width="650"/>
-</p>
 
-<!-- HackerRank Activity -->
-<p align="center">
-  <img src="https://www.hackerrank.com/rest/contests/master/hackers/nirjhor230510161/badges" alt="HackerRank Stats" width="650"/>
-</p>
 
 
