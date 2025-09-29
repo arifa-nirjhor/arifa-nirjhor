@@ -84,16 +84,7 @@
 
 <h3 align="left">🔗 Profiles & Competitive Coding:</h3>
 <p align="left">
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/nirjhor230510161" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg"
-         alt="HackerRank" width="40" height="40"/>
-  </a>
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Arifa_Zaman_18?graphType=all" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-original.svg"
-         alt="Codeforces" width="40" height="40"/>
-  </a>
+ 
   <!-- Optional Shields style badges -->
   &nbsp;
   <a href="https://www.hackerrank.com/profile/nirjhor230510161" target="_blank" rel="noreferrer">
