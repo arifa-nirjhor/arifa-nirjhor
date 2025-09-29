@@ -1,5 +1,4 @@
-![image alt](<img width="255" height="324" alt="image" src="https://github.com/user-attachments/assets/8fc8e616-3838-4ac5-9203-3529ff31bcb6" />
-)
+![image alt](https://github.com/arifa-nirjhor/arifa-nirjhor/blob/e6f7af061f77a0b3d4ab40b3e4bda54dd1f81c14/Profile.png)
 
 <h1 align="center">Hi 👋, I'm Umme Arifa Zaman Nirjhor</h1>
 <h3 align="center">I’m Umme Arifa Zaman Nirjhor, from Dhaka, Bangladesh, studying Computer Science and Engineering. I’m skilled in HTML, C, C++, Java, as well as Data Structures, Algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</h3>
