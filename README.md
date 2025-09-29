@@ -1,4 +1,4 @@
-![image alt](https://github.com/arifa-nirjhor/arifa-nirjhor/blob/e172d9ad4c92e0ef27cbd4fdae61aec608519aa0/Profile....png)
+
 
 <h1 align="center">Hi 👋, I'm Umme Arifa Zaman Nirjhor</h1>
 <h3 align="center">I’m Umme Arifa Zaman Nirjhor, from Dhaka, Bangladesh, studying Computer Science and Engineering. I’m skilled in HTML, C, C++, Java, as well as Data Structures, Algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</h3>
