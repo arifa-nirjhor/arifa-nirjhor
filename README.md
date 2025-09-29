@@ -127,17 +127,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifa-nirjhor&layout=compact&theme=radical" 
        alt="Top Languages" width="450"/>
 </p>
-<h3 align="left">📈 Contributions & Activity:</h3>
-<p align="left">
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github.com/arifa-nirjhor.png?size=400" alt="GitHub Profile Picture" width="100"/>
-</p>
+<h3 align="left">📊 Contributions & Activity:</h3>
 
-<p align="left">
+<!-- GitHub Activity -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arifa-nirjhor&bg_color=0d1117&color=4ade80&line=2f8ee0&point=ff2c6d&area=true&hide_border=true" alt="GitHub Contribution Graph" width="650"/>
 </p>
-<!-- Codeforces Rating / Activity -->
-<img src="https://cfstats.herokuapp.com/user/Arifa_Zaman_18?theme=light" alt="Codeforces Activity Graph" width="650"/>
-<!-- HackerRank Stats -->
-<img src="https://www.hackerrank.com/rest/contests/master/hackers/nirjhor230510161/badges" alt="HackerRank Stats" width="650"/>
+
+<!-- Codeforces Activity -->
+<p align="center">
+  <img src="https://cfstats.herokuapp.com/user/Arifa_Zaman_18?theme=light" alt="Codeforces Activity Graph" width="650"/>
+</p>
+
+<!-- HackerRank Activity -->
+<p align="center">
+  <img src="https://www.hackerrank.com/rest/contests/master/hackers/nirjhor230510161/badges" alt="HackerRank Stats" width="650"/>
+</p>
+
 
