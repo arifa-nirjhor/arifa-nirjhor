@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Basic Crytography**
+🌱 I’m currently learning Basic Cryptography and Post-Quantum Cryptography
 
-- 👯 I’m looking to collaborate on **github**
+👯 I’m looking to collaborate on GitHub open-source projects
 
-- 🔭 Ask me about **C,C++, Algorithm, Data Structure, Basic Cryptography**
+🔭 Ask me about C, C++, Python, Algorithms, Data Structures, Operating Systems, Compiler Design, Graphics Design, and Cryptography (including Post-Quantum Cryptography)
 
 - 📫 How to reach me **arifanirjhor@gmail.com**
 
