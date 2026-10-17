@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="./GitHub%20Readme%20Photo.png" alt="Nirjhor GitHub Banner" width="100%" />
+</p>
+  
+
+
 <div align="center">
 
 # Hi, I'm Nirjhor 👋
