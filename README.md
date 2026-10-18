@@ -58,6 +58,7 @@ I use GitHub to document coursework, strengthen my programming fundamentals, and
 - **Network security:** Understanding network traffic and intrusion detection approaches.
 - **Security research:** Designing reproducible experiments, documenting assumptions, and comparing results.
 
+
 ## GitHub Activity
 
 <div align="center">
@@ -66,7 +67,6 @@ I use GitHub to document coursework, strengthen my programming fundamentals, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifa-nirjhor&layout=compact&theme=github_dark&hide_border=true)
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=arifa-nirjhor&theme=github-compact)
 </div>
 
 ---
@@ -75,6 +75,5 @@ I use GitHub to document coursework, strengthen my programming fundamentals, and
 
 *Interested in cybersecurity, cryptography, or Python projects? Feel free to connect.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=arifa-nirjhor&style=flat-square&color=64748b)
-
 </div>
+
