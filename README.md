@@ -71,9 +71,12 @@ I use GitHub to document coursework, strengthen my programming fundamentals, and
 
 <div align="center">
 
-### Contribution Activity
+<h3 align="left">📊 Contributions & Activity:</h3>
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=arifa-nirjhor&theme=react-dark)
+<!-- GitHub Activity -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arifa-nirjhor&bg_color=0d1117&color=4ade80&line=2f8ee0&point=ff2c6d&area=true&hide_border=true" alt="GitHub Contribution Graph" width="650"/>
+</p>
 
 </div>
 
