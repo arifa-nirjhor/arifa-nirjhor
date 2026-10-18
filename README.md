@@ -67,9 +67,15 @@ I use GitHub to document coursework, strengthen my programming fundamentals, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifa-nirjhor&layout=compact&theme=github_dark&hide_border=true)
 
+
 ### Contribution Activity
 
-[View My Contribution Calendar](https://github.com/arifa-nirjhor#user-activity-overview)
+<div align="center">
+
+![Contribution Activity](./assets/contribution-line.svg)
+
+</div>
+
 
 
 
